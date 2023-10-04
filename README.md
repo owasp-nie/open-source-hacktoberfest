@@ -60,6 +60,8 @@ To maintain a positive and collaborative environment, please adhere to the follo
 
    Let's say you're contributing to the Data Structures & Algorithms folder by solving a [LeetCode](https://www.leetcode.com) problem, named Two Sum. Your file name should be two-sum followed by the appropriate extension of the language you're writing the code in.
 
+   If you want to submit an entire project, let's say you're contributing a ToDo List app to the Web Development folder. Your folder name should be ToDo list, and all the files relating to the same should be within that folder.
+
 7. Avoid submitting duplicate contributions. Check the existing codebase and issues before making a contribution. Feel free to add alternative language solutions to already existing solutions but with the same name, just a different extension.
 
 8. Be polite and respectful when communicating with other contributors.
@@ -77,6 +79,15 @@ This repository has different categories for various types of code contributions
 - **Data Analysis**
 - **Game Development**
 - **Miscellaneous**
+
+To learn any field of tech, we suggest you to go through these following resources:
+
+1. [Roadmap.sh](https://roadmap.sh)
+2. [OSSU Computer Science](https://github.com/ossu/computer-science)
+
+## Rewards from OWASP NIE
+
+Beyond the incentives provided by Hacktoberfest and its collaborators, the OWASP NIE Student Chapter is eager to express our appreciation for your open-source dedication. We're delighted to announce that the individual who makes the most impactful contributions to this repository will receive an exclusive cash prize of 1000 INR courtesy of our chapter. The winner will be determined in early November, taking into account both the quantity and quality of their contributions. Your passion for open source can truly pay off!
 
 ## Get Started
 
